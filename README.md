@@ -26,10 +26,10 @@ Olá, eu sou João Victor 👋
 - Arquitetura de projetos
 
 📈 Estatísticas do GitHub
+ 
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovlone&layout=compact&theme=dracula&langs_count=7"/>
+ 
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jaovlone&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-
-
 
 
 💼 Experiência
