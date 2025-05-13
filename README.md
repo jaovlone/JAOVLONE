@@ -45,4 +45,4 @@ Olá, eu sou João Victor 👋
 
 📚 Formação Acadêmica
 
-- Ainda não ingressei em universidade, estou esperando sair os últimos resultados para tomar uma decisão de ponderada.
+- Ainda não ingressei em universidade, estou esperando sair os últimos resultados para tomar uma decisão ponderada.
