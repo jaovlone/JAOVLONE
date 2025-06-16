@@ -45,4 +45,4 @@ Olá, eu sou João Victor 👋
 
 📚 Formação Acadêmica
 
-- Ainda não ingressei em universidade, estou esperando sair os últimos resultados para tomar uma decisão ponderada.
+- Cursando Engenharias na Universidade de Brasília, após os dois anos de formação básica do curso, escolherei Engenharia de Software.
