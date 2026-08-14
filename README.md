@@ -1,48 +1,113 @@
-Olá, eu sou João Victor 👋
+<h1 align="center">Olá! Eu sou o João Victor 👋</h1>
 
-📫 Como me encontrar ?
-  
-  <a href ="https://www.linkedin.com/in/joão-victor-braga-santos-08446a212/"> <text decoration = "none"> Linkedin</text></a>
+<p align="center">
+🎓 Estudante de Engenharia de Software na Universidade de Brasília (UnB)
+</p>
 
+<p align="center">
+💻 Focado em Desenvolvimento Backend com Java e Spring Boot
+</p>
 
-🔭 Atualmente estou trabalhando em
+---
 
-- Projeto 1: Conta Corrente.
+# 🚀 Sobre mim
 
-- Projeto 2: Sistema Biblioteca.
+Sou estudante de Engenharia de Software na **Universidade de Brasília (UnB)** e atualmente direciono meus estudos para o desenvolvimento backend utilizando o ecossistema Java.
 
+Tenho buscado aprender através da construção de projetos completos, aplicando conceitos utilizados no mercado como arquitetura em camadas, APIs REST, persistência de dados, documentação de APIs e testes automatizados.
 
-🌱 Estou aprendendo
+Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor backend e evoluir continuamente como engenheiro de software.
 
-- Java.
+---
 
+# 🛠️ Tecnologias
 
+### Linguagens
 
-💬 Interesses
-- CyberSegurança.
+![Java](https://img.shields.io/badge/Java-21-orange)
+![SQL](https://img.shields.io/badge/SQL-blue)
 
-- Desenvolvimento de software em Java.
+### Backend
 
-- Arquitetura de projetos
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-success)
+![Hibernate](https://img.shields.io/badge/Hibernate-brown)
 
-📈 Estatísticas do GitHub
- 
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovlone&layout=compact&theme=dracula&langs_count=7"/>
- 
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jaovlone&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+### Banco de Dados
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 
-💼 Experiência
+### Testes
 
-- Por enquanto sem experiências no mercado de trabalho.
+![JUnit5](https://img.shields.io/badge/JUnit_5-success)
+![Mockito](https://img.shields.io/badge/Mockito-green)
 
-🛠️ Tecnologias e Ferramentas
+### Ferramentas
 
-- Linguagens: Java.
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![Maven](https://img.shields.io/badge/Maven-C71A36)
+![Swagger](https://img.shields.io/badge/OpenAPI-Swagger-85EA2D)
 
-- IDEs : InteliJ e Vscode.
+---
 
+# 📚 Atualmente estudando
 
-📚 Formação Acadêmica
+- Java 21
+- Spring Boot
+- Spring Security
+- JPA / Hibernate
+- Testes Unitários (JUnit + Mockito)
+- Arquitetura de Software
+- Estruturas de Dados
+- Engenharia de Software
 
-- Cursando Engenharias na Universidade de Brasília, após os dois anos de formação básica do curso, escolherei Engenharia de Software.
+---
+
+# 📌 Projeto em destaque
+
+## 🏦 JVL Bank API
+
+Projeto desenvolvido para consolidar conhecimentos em desenvolvimento backend com Java.
+
+Tecnologias utilizadas:
+
+- Java 21
+- Spring Boot
+- PostgreSQL
+- Spring Data JPA
+- Hibernate
+- Bean Validation
+- Swagger / OpenAPI
+- JUnit 5
+- Mockito
+
+Funcionalidades implementadas:
+
+- CRUD de Clientes
+- Documentação da API
+- Tratamento Global de Exceções
+- Testes Unitários
+
+➡️ https://github.com/jaovlone/sistema_banco_v0.1
+
+---
+
+# 📈 Objetivos
+
+- Desenvolvedor Backend Java
+- Boas práticas de arquitetura
+- APIs REST
+- Testes Automatizados
+- Desenvolvimento de software de qualidade
+
+---
+
+# 📫 Contato
+
+📧 (seu e-mail)
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/joão-victor-braga-santos-08446a212/
+
