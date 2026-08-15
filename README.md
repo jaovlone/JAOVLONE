@@ -105,7 +105,7 @@ Funcionalidades implementadas:
 
 # 📫 Contato
 
-📧 (seu e-mail)
+📧 jvictorbs06@gmail.com
 
 💼 LinkedIn
 
